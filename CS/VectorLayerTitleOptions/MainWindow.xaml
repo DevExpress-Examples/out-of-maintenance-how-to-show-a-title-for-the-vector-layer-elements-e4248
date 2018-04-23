@@ -1,0 +1,17 @@
+﻿<Window x:Class="VectorLayerTitleOptions.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dxm="http://schemas.devexpress.com/winfx/2008/xaml/map"
+        Title="MainWindow" Height="350" Width="525" >
+    <Grid>
+        <dxm:MapControl>
+            <dxm:VectorLayer >
+                <dxm:VectorLayer.ShapeTitleOptions>
+                    <dxm:ShapeTitleOptions Visible="True"/>
+                </dxm:VectorLayer.ShapeTitleOptions>
+                    <dxm:ShapefileDataAdapter FileUri="/VectorLayerTitleOptions;component/Shapefile/SouthAmerica.shp">
+                    </dxm:ShapefileDataAdapter>
+            </dxm:VectorLayer>
+        </dxm:MapControl>
+    </Grid>
+</Window>
