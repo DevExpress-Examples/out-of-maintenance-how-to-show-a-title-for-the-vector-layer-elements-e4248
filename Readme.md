@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/VectorLayerTitleOptions/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/VectorLayerTitleOptions/MainWindow.xaml))
+<!-- default file list end -->
 # How to show a title for the vector layer elements 
 
 
