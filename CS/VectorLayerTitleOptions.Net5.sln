@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorLayerTitleOptions", "VectorLayerTitleOptions\VectorLayerTitleOptions.csproj", "{C82A379D-1B98-49D0-909A-6EA0CDA423F6}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorLayerTitleOptions", "VectorLayerTitleOptions\VectorLayerTitleOptions.Net5.csproj", "{C82A379D-1B98-49D0-909A-6EA0CDA423F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
